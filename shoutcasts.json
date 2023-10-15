@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "Вести FM",
+    "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+    "picture" : "https://fuiwgfb.github.io/53/icon/vestifm.png"
+  },
+  {
+    "name" : "Маяк",
+    "stream" : "https://fed.fmplay.ru:8000/mayak-32.aac",
+    "picture" : "https://fuiwgfb.github.io/53/icon/mayak.png"
+  }
+]
