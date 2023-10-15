@@ -8,5 +8,10 @@
     "name" : "Маяк",
     "stream" : "https://fed.fmplay.ru:8000/mayak-32.aac",
     "picture" : "https://fuiwgfb.github.io/53/icon/mayak.png"
+  },
+  {
+    "name" : "Радио Звезда",
+    "stream" : "https://zvezdafm.hostingradio.ru/zvezdafm64.aacp",
+    "picture" : "https://fuiwgfb.github.io/53/icon/zvezda.jpg"
   }
 ]
