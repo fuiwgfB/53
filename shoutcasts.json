@@ -1,5 +1,30 @@
 [
   {
+    "name" : "RMI New Generation",
+    "stream" : "https://cast1.torontocast.com:1315/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png"
+  },
+  {
+    "name" : "RMI Disco Classic",
+    "stream" : "https://cast1.torontocast.com:1165/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Classic.png"
+  },
+  {
+    "name" : "RMI Euro Disco",
+    "stream" : "https://cast1.torontocast.com:1335/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Disco.png"
+  },
+  {
+    "name" : "ITALO DANCE FM - NON STOP",
+    "stream" : "http://188.40.97.185:8120/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo_nonstop.jpg"
+  },
+  {
+    "name" : "Italo4you",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg"
+  },
+  {
     "name" : "Вести FM",
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
     "picture" : "https://fuiwgfb.github.io/53/icon/vestifm.png"
