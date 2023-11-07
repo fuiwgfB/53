@@ -102,17 +102,17 @@
   {
     "name" : "Mixitalo",
     "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
-    "picture" : "111"
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg"
   },
   {
     "name" : "Synthizitalo Disco",
     "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
-    "picture" : "222"
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg"
   },
   {
     "name" : "Italo-Disco",
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
-    "picture" : "333"
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg"
   },
   {
     "name" : "Italo Disco stream",
