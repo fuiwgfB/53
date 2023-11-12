@@ -28,11 +28,11 @@
     "category" : "italo"
   },
   {
-    "name" : "Italo5you",
-    "stream" : "https://ssl-1.radiohost.pl:8018/stream/76",
-    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg/77",
+    "name" : "Italo4you",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg",
     "number" : "5",
-    "category" : "italo1"
+    "category" : "italo"
   },
   {
     "name" : "Вести FM",
