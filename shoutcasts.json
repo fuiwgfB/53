@@ -166,5 +166,68 @@
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "24",
     "category" : "italo"
+  },
+  {
+    "name" : "80",
+    "stream" : "https://live.radiospinner.com/80hs-64",
+    "picture" : "https://glavnoeradio.ru/2610/logo/80.jpg",
+    "number" : "25",
+    "category" : "italo"
+  },
+  {
+    "name" : "USSR HIT",
+    "stream" : "https://myradio24.org/ussr",
+    "picture" : "https://glavnoeradio.ru/2610/logo/ussrhit.jpg",
+    "number" : "26",
+    "category" : "italo"
+  },
+  {
+    "name" : "RUSSIAN ROCK",
+    "stream" : "https://live.radiospinner.com/rsskjrk-64",
+    "picture" : "https://glavnoeradio.ru/2610/logo/russianrock.jpg",
+    "number" : "27",
+    "category" : "italo"
+  },
+  {
+    "name" : "Ретро ХИТ",
+    "stream" : "https://retro.amgradio.ru/Retro",
+    "picture" : "https://glavnoeradio.ru/2610/logo/retrohit.jpg",
+    "number" : "28",
+    "category" : "italo"
+  },
+  {
+    "name" : "Донат ФМ - СССР",
+    "stream" : "https://c6.radioboss.fm:18098/stream",
+    "picture" : "https://c6.radioboss.fm/w/artwork/98.png",
+    "number" : "29",
+    "category" : "italo"
+  },
+  {
+    "name" : "Europa Plus",
+    "stream" : "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "picture" : "https://glavnoeradio.ru/2610/logo/europaplus.webp",
+    "number" : "30",
+    "category" : "italo"
+  },
+  {
+    "name" : "CHILL Камчатка",
+    "stream" : "http://radio.kamchatkalive.ru:8100/chillout",
+    "picture" : "https://glavnoeradio.ru/2610/logo/chillout-kamchatka.png",
+    "number" : "31",
+    "category" : "italo"
+  },
+  {
+    "name" : "Ultra\n(256 kbps)",
+    "stream" : "http://nashe1.hostingradio.ru:80/ultra-256",
+    "picture" : "https://glavnoeradio.ru/2610/logo/ultra.png",
+    "number" : "32",
+    "category" : "italo"
+  },
+  {
+    "name" : "Краснодар радио",
+    "stream" : "https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_1_mp3_128",
+    "picture" : "https://glavnoeradio.ru/2610/logo/radiokrasnodar.webp",
+    "number" : "33",
+    "category" : "italo"
   }
 ]
