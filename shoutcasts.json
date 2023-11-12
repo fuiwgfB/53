@@ -203,9 +203,9 @@
     "category" : "italo"
   },
   {
-    "name" : "Маруся ФМ\nПрямой эфир",
-    "stream" : "https://fed.fmplay.ru:8000/marusya-32.aac",
-    "picture" : "https://glavnoeradio.ru/2610/logo/marusya.webp",
+    "name" : "SOUND PARK DEEP",
+    "stream" : "https://relay3.radiotoolkit.com/spdeep",
+    "picture" : "https://glavnoeradio.ru/2610/logo/soundparkdeep.jpg",
     "number" : "30",
     "category" : "italo"
   },
@@ -224,9 +224,9 @@
     "category" : "italo"
   },
   {
-    "name" : "Краснодар радио",
-    "stream" : "https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_1_mp3_128",
-    "picture" : "https://glavnoeradio.ru/2610/logo/radiokrasnodar.webp",
+    "name" : "Chocolate FM",
+    "stream" : "https://choco.hostingradio.ru:10010/fm",
+    "picture" : "https://glavnoeradio.ru/2610/logo/chocolate.webp",
     "number" : "33",
     "category" : "italo"
   }
