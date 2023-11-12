@@ -203,9 +203,9 @@
     "category" : "italo"
   },
   {
-    "name" : "Europa Plus",
-    "stream" : "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "picture" : "https://glavnoeradio.ru/2610/logo/europaplus.webp",
+    "name" : "Маруся ФМ\nПрямой эфир",
+    "stream" : "https://fed.fmplay.ru:8000/marusya-32.aac",
+    "picture" : "https://glavnoeradio.ru/2610/logo/marusya.webp",
     "number" : "30",
     "category" : "italo"
   },
