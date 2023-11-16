@@ -28,6 +28,13 @@
     "category" : "italo"
   },
   {
+    "name" : "ITALO DANCE FM NEW",
+    "stream" : "http://188.40.97.185:8120/stream",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo_nonstop.jpg",
+    "number" : "4.1",
+    "category" : "italo"
+  },
+  {
     "name" : "Italo4you",
     "stream" : "https://ssl-1.radiohost.pl:8018/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg",
