@@ -16,6 +16,14 @@
     "category" : "italo"
   },
   {
+    "identificator" : "80s80s",
+    "name" : "80s80s In The Mix",
+    "stream" : "https://regiocast.streamabc.net/regc-80s80smix8012507-mp3-192-3015055",
+    "picture" : "https://fuiwgfb.github.io/52/italo_icon/80s80s.jpg",
+    "number" : "20",
+    "category" : "italo"
+  },
+  {
     "identificator" : "rmi_eurodisco",
     "name" : "RMI Euro Disco",
     "stream" : "https://cast1.torontocast.com:1335/stream",
