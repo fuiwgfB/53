@@ -6,7 +6,7 @@
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png",
     "number" : "1000",
     "category" : "italo",
-    "info" : "info RMI  <br /> <u>ссылка</u> <br /> <u><font color='#2F9EFF'>appradio@mail.ru</font></u> \n <b>жирный текст</b>  https://glavnoeradio.ru/"
+    "info" : "<br /> <u>подчёркнуть</u> <br /> <u><font color='#2F9EFF'>Выделить цветом</font></u> <br /> <b>жирный текст</b> <br />    <a href=\"https://www.80s80s.de/\">www.80s80s.de</a>"
   },
   {
     "identificator" : "rmi_classic",
@@ -221,24 +221,6 @@
     "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "250",
-    "category" : "italo",
-    "info" : "info RMI"
-  },
-  {
-    "identificator" : "80s",
-    "name" : "80",
-    "stream" : "https://live.radiospinner.com/80hs-64",
-    "picture" : "https://glavnoeradio.ru/2610/logo/80.jpg",
-    "number" : "260",
-    "category" : "italo",
-    "info" : "info RMI"
-  },
-  {
-    "identificator" : "ussr_hit",
-    "name" : "USSR HIT",
-    "stream" : "https://myradio24.org/ussr",
-    "picture" : "https://glavnoeradio.ru/2610/logo/ussrhit.jpg",
-    "number" : "270",
     "category" : "italo",
     "info" : "info RMI"
   },
