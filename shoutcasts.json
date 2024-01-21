@@ -5,7 +5,8 @@
     "stream" : "https://cast1.torontocast.com:1315/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png",
     "number" : "1000",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "rmi_classic",
@@ -13,7 +14,8 @@
     "stream" : "https://cast1.torontocast.com:1165/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Classic.png",
     "number" : "20",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI Classic"
   },
   {
     "identificator" : "80s80s",
@@ -21,7 +23,8 @@
     "stream" : "https://regiocast.streamabc.net/regc-80s80smix8012507-mp3-192-3015055",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/80s80s.jpg",
     "number" : "20",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info 80s80s"
   },
   {
     "identificator" : "rmi_eurodisco",
@@ -29,7 +32,8 @@
     "stream" : "https://cast1.torontocast.com:1335/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Disco.png",
     "number" : "30",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info eurodance"
   },
   {
     "identificator" : "italodancefm",
@@ -37,7 +41,8 @@
     "stream" : "http://188.40.97.185:8120/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo_nonstop.jpg",
     "number" : "40",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info italodance fm"
   },
   {
     "identificator" : "italo4you",
@@ -45,7 +50,8 @@
     "stream" : "https://ssl-1.radiohost.pl:8018/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg",
     "number" : "60",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info Italo4You"
   },
   {
     "identificator" : "vesti_fm",
@@ -53,7 +59,8 @@
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
     "picture" : "https://fuiwgfb.github.io/53/icon/vestifm.png",
     "number" : "70",
-    "category" : "news"
+    "category" : "news",
+    "info" : "Информация Вести ФМ"
   },
   {
     "identificator" : "radio_mayak",
@@ -61,7 +68,8 @@
     "stream" : "https://fed.fmplay.ru:8000/mayak-32.aac",
     "picture" : "https://fuiwgfb.github.io/53/icon/mayak.png",
     "number" : "80",
-    "category" : "news"
+    "category" : "news",
+    "info" : "info МАЯК"
   },
   {
     "identificator" : "radio_zvezda",
@@ -69,7 +77,8 @@
     "stream" : "https://zvezdafm.hostingradio.ru/zvezdafm64.aacp",
     "picture" : "https://fuiwgfb.github.io/53/icon/zvezda.jpg",
     "number" : "90",
-    "category" : "news"
+    "category" : "news",
+    "info" : "info RMI звезда"
   },
   {
     "identificator" : "hitradio_polska",
@@ -77,7 +86,8 @@
     "stream" : "http://51.255.8.139:9090/stream/1/",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/hitradio.jpg",
     "number" : "100",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "1000_italo_hits",
@@ -85,7 +95,8 @@
     "stream" : "http://1000italohits.stream.laut.fm/1000italohits",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/1000ITA.jpg",
     "number" : "110",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italopower",
@@ -93,7 +104,8 @@
     "stream" : "https://stream.deevaradio.net:10443/italopower",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italopower.jpg",
     "number" : "120",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italo_sound",
@@ -101,7 +113,8 @@
     "stream" : "https://icecast.italosound.com/italosound",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italosound.jpg",
     "number" : "130",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italoscene",
@@ -109,7 +122,8 @@
     "stream" : "http://italoscene.stream.laut.fm/italoscene",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italoscene.jpg",
     "number" : "140",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "synthetic_fm",
@@ -117,7 +131,8 @@
     "stream" : "http://stream.syntheticfm.com:8030/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/syntheticfm.jpg",
     "number" : "150",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "80s80s",
@@ -125,7 +140,8 @@
     "stream" : "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/80s80s.jpg",
     "number" : "160",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "radio_italo_disco_net",
@@ -133,7 +149,8 @@
     "stream" : "https://cast2.asurahosting.com/proxy/alen/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/radioitalodisconet.jpg",
     "number" : "170",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "radio_mirage",
@@ -141,7 +158,8 @@
     "stream" : "https://ssl-1.radiohost.pl:9569/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/mirage.jpg",
     "number" : "180",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italodance_pilot",
@@ -149,7 +167,8 @@
     "stream" : "http://145.239.26.146:7694/stream/1/",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodiscopilot.jpg",
     "number" : "190",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "openfm",
@@ -157,7 +176,8 @@
     "stream" : "http://stream.open.fm/27",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/openfm.jpg",
     "number" : "200",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "oxygen",
@@ -165,7 +185,8 @@
     "stream" : "https://oxygenmusic.hu:8443/oxygenitalohits_128",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/oxygen.jpg",
     "number" : "210",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "mixitalo",
@@ -173,7 +194,8 @@
     "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "220",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "synthizitalo",
@@ -181,7 +203,8 @@
     "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "230",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italo_disco",
@@ -189,7 +212,8 @@
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "240",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "italo_disco_stream",
@@ -197,7 +221,8 @@
     "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
     "number" : "250",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "80s",
@@ -205,7 +230,8 @@
     "stream" : "https://live.radiospinner.com/80hs-64",
     "picture" : "https://glavnoeradio.ru/2610/logo/80.jpg",
     "number" : "260",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "ussr_hit",
@@ -213,7 +239,8 @@
     "stream" : "https://myradio24.org/ussr",
     "picture" : "https://glavnoeradio.ru/2610/logo/ussrhit.jpg",
     "number" : "270",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "russian_rock",
@@ -221,7 +248,8 @@
     "stream" : "https://live.radiospinner.com/rsskjrk-64",
     "picture" : "https://glavnoeradio.ru/2610/logo/russianrock.jpg",
     "number" : "280",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "retrohit",
@@ -229,7 +257,8 @@
     "stream" : "https://retro.amgradio.ru/Retro",
     "picture" : "https://glavnoeradio.ru/2610/logo/retrohit.jpg",
     "number" : "290",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "donatfm_sssr",
@@ -237,7 +266,8 @@
     "stream" : "https://c6.radioboss.fm:18098/stream",
     "picture" : "https://c6.radioboss.fm/w/artwork/98.png",
     "number" : "300",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "sound_park",
@@ -245,7 +275,8 @@
     "stream" : "https://relay3.radiotoolkit.com/spdeep",
     "picture" : "https://glavnoeradio.ru/2610/logo/soundparkdeep.jpg",
     "number" : "310",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "chill_kamchatka",
@@ -253,7 +284,8 @@
     "stream" : "http://radio.kamchatkalive.ru:8100/chillout",
     "picture" : "https://glavnoeradio.ru/2610/logo/chillout-kamchatka.png",
     "number" : "320",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "ultra",
@@ -261,7 +293,8 @@
     "stream" : "http://nashe1.hostingradio.ru:80/ultra-256",
     "picture" : "https://glavnoeradio.ru/2610/logo/ultra.png",
     "number" : "330",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   },
   {
     "identificator" : "chocolate",
@@ -269,6 +302,7 @@
     "stream" : "https://choco.hostingradio.ru:10010/fm",
     "picture" : "https://glavnoeradio.ru/2610/logo/chocolate.webp",
     "number" : "340",
-    "category" : "italo"
+    "category" : "italo",
+    "info" : "info RMI"
   }
 ]
