@@ -89,6 +89,24 @@
     "info" : "",
     "metadata" : "false"
   },
+  { "identificator" : "iz",
+    "name" : "Известия ФМ\nЗвуковой эфир телеканала",
+    "stream" : "https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8",
+    "picture" : "https://glavnoeradio.ru/2610/logo/iz.png",
+    "number" : "6.5",
+    "category" : "news"
+    "info" : "",
+    "metadata" : "false"
+  },
+  { "identificator" : "rossia24",
+    "name" : "Россия 24\nЗвуковой эфир телеканала",
+    "stream" : "https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia24sd/playlist.m3u8",
+    "picture" : "https://glavnoeradio.ru/2610/logo/rossia24.jpg",
+    "number" : "6.6",
+    "category" : "news"
+    "info" : "",
+    "metadata" : "false"
+  },
   {
     "identificator" : "hitradio_polska",
     "name" : "Hitradio Polska",
