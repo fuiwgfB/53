@@ -87,7 +87,7 @@
     "number" : "90",
     "category" : "news",
     "info" : "",
-    "metadata" : "true"
+    "metadata" : "false"
   },
   {
     "identificator" : "hitradio_polska",
@@ -127,7 +127,7 @@
     "number" : "130",
     "category" : "italo",
     "info" : "info RMI",
-    "metadata" : "true"
+    "metadata" : "false"
   },
   {
     "identificator" : "italoscene",
