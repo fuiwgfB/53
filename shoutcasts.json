@@ -712,15 +712,6 @@
     "info" : "info",
     "metadata" : "true"
   },
-  { "identificator" : "capital_fm",
-    "name" : "Capital FM 105.3\nhttp://capitalfm.moscow/",
-    "stream" : "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
-    "picture" : "https://glavnoeradio.ru/2610/logo/capital_fm.jpg",
-    "number" : "69",
-    "category" : "retro",
-    "info" : "info",
-    "metadata" : "true"
-  },
 
 
   { "identificator" : "record",
