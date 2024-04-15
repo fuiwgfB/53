@@ -14,7 +14,7 @@
     "picture" : "https://glavnoeradio.ru/2610/logo/mayak.webp",
     "number" : "2",
     "category" : "news2",
-    "info" : "info",
+    "info" : "Первая круглосуточная информационно-развлекательная радиостанция в стране. Основана в 1964 году. Входит в первый мультиплекс.",
     "metadata" : "true"
   },
   { "identificator" : "radio_rossia",
@@ -23,7 +23,7 @@
     "picture" : "https://glavnoeradio.ru/2610/logo/1-radio-rossii.jpg",
     "number" : "3",
     "category" : "russia",
-    "info" : "info",
+    "info" : "Федеральная государственная радиостанция общего формата, входящая в состав Всероссийской государственной телевизионной и радиовещательной компании (ВГТРК).",
     "metadata" : "false"
   },
   { "identificator" : "kultura_radio",
