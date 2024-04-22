@@ -71,7 +71,6 @@
     "info" : "info",
     "metadata" : "true"
   },
-
   { "identificator" : "zvezda",
     "name" : "Радио Звезда\nПрямой эфир",
     "stream" : "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_64",
@@ -81,7 +80,6 @@
     "info" : "info",
     "metadata" : "true"
   },
-
   { "identificator" : "sputnik",
     "name" : "Sputnik",
     "stream" : "https://icecast-rian.cdnvideo.ru/voicerus",
