@@ -5,7 +5,7 @@
     "stream" : "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
     "picture" : "https://glavnoeradio.ru/2610/logo/vestifm.webp",
     "number" : "1",
-    "category" : "news",
+    "category" : "Новости",
     "info" : "info",
     "metadata" : "true"
   },
@@ -14,7 +14,7 @@
     "stream" : "https://fed.fmplay.ru:8000/mayak-32.aac",
     "picture" : "https://glavnoeradio.ru/2610/logo/mayak.webp",
     "number" : "2",
-    "category" : "news",
+    "category" : "Новости",
     "info" : "info",
     "metadata" : "true"
   },
@@ -50,7 +50,7 @@
     "stream" : "https://rgordost.hostingradio.ru/rgordost64.aacp",
     "picture" : "https://glavnoeradio.ru/2610/logo/rgordost.webp",
     "number" : "6",
-    "category" : "retro",
+    "category" : "Ретро",
     "info" : "info",
     "metadata" : "true"
   },
