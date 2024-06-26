@@ -105,7 +105,7 @@
     "stream" : "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_64",
     "picture" : "https://glavnoeradio.ru/2610/logo/zvezda.png",
     "number" : "13",
-    "category" : "news",
+    "category" : "Новости,Музыка,Военное",
     "info" : "info",
     "metadata" : "true"
   },
