@@ -32,7 +32,7 @@
     "stream" : "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
     "picture" : "https://glavnoeradio.ru/2610/logo/solovevfm.jpg",
     "number" : "4",
-    "category" : "news",
+    "category" : "Новости,Военное",
     "info" : "info",
     "metadata" : "true"
   },
@@ -41,7 +41,7 @@
     "stream" : "https://kpradio.hostingradio.ru:8000/64",
     "picture" : "https://glavnoeradio.ru/2610/logo/kpravda.webp",
     "number" : "5",
-    "category" : "news",
+    "category" : "Новости",
     "info" : "info",
     "metadata" : "true"
   },
@@ -69,7 +69,7 @@
     "stream" : "https://zfm.hostingradio.ru/zfm128.mp3",
     "picture" : "https://glavnoeradio.ru/2610/logo/z-fm.jpg",
     "number" : "9",
-    "category" : "pop",
+    "category" : "Музыка,Военное",
     "info" : "info",
     "metadata" : "true"
   },
@@ -78,7 +78,7 @@
     "stream" : "https://stream.radio-zhizn.ru:8443/rz_life",
     "picture" : "https://glavnoeradio.ru/2610/logo/zhizn.jpg",
     "number" : "10",
-    "category" : "pop",
+    "category" : "Музыка,Военное",
     "info" : "info",
     "metadata" : "true"
   },
@@ -249,7 +249,7 @@
     "stream" : "https://myradio24.org/63361",
     "picture" : "https://glavnoeradio.ru/2610/logo/radio_333.jpg",
     "number" : "27.2",
-    "category" : "news",
+    "category" : "Новости,Музыка,Военное",
     "info" : "info",
     "metadata" : "true"
   },
@@ -258,7 +258,7 @@
     "stream" : "https://radiorecord.hostingradio.ru/198096.aacp",
     "picture" : "https://glavnoeradio.ru/2610/logo/80s.jpg",
     "number" : "27.3",
-    "category" : "retro",
+    "category" : "Ретро,Музыка",
     "info" : "info",
     "metadata" : "true"
   },
@@ -321,7 +321,7 @@
     "stream" : "http://rock.volna.top/RusRock",
     "picture" : "https://glavnoeradio.ru/2610/logo/russ_rock.webp",
     "number" : "34",
-    "category" : "rock",
+    "category" : "Рок,Музыка",
     "info" : "info",
     "metadata" : "true"
   },
@@ -348,7 +348,7 @@
     "stream" : "https://retro.amgradio.ru/Retro",
     "picture" : "https://glavnoeradio.ru/2610/logo/retrohit.jpg",
     "number" : "37",
-    "category" : "retro",
+    "category" : "Ретро,Музыка,80`s",
     "info" : "info",
     "metadata" : "true"
   },
